@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-responsive-table-scrolling-shadows",
+  "authors": [
+    "Kristjan Lilleoja <kristjan@lilleoja.com>"
+  ],
+  "description": "Pure CSS scrolling shadows for Bootstrap responsive tables.",
+  "main": "bootstrap-responsive-table-scrolling-shadows.css",
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "css"
+  ],
+  "license": "MIT"
+}
