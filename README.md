@@ -30,7 +30,7 @@ The magic is tied to the ```.table-responsive``` class.
 
 ## Demo
 
-[Check out the demo](http://ikristjan.github.io/bootstrap-responsive-table-scrolling-shadows)
+[Check out the demo](http://ikristjan.github.io/bootstrap-responsive-table-scrolling-shadows/)
 
 ![Screenshot](screenshot.png)
 
