@@ -36,7 +36,7 @@ The magic is tied to the ```.table-responsive``` class.
 
 ## Acknowledgements
 
-Inspired by [Roman Komarov](http://kizu.ru/en/fun/shadowscroll/) and [Lea Verou](http://lea.verou.me/2012/04/background-attachment-local/).
+Inspired by [Roman Komarov](http://kizu.ru/en/fun/shadowscroll/).
 
 ## License
 

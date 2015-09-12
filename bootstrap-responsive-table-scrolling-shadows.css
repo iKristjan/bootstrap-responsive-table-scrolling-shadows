@@ -1,12 +1,25 @@
 .table-responsive {
-  background:
-	/* Shadow covers */
-	linear-gradient(to right, white 30%, rgba(255,255,255,0)),
-	linear-gradient(to left, white 30%, rgba(255,255,255,0)) 100% 0,
-	/* Shadows */
-	radial-gradient(farthest-side at 0% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)),
-	radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 100% 0;
+  background: 
+	  radial-gradient(farthest-side at 0% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)),
+    radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.2), rgba(0,0,0,0)) 100% 0;
+  background-color: white;
   background-repeat: no-repeat;
-  background-size: 50px 100%, 50px 100%, 10px 100%, 10px 100%;
-  background-attachment: local, local, scroll, scroll;
+  background-size: 10px 100%;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width:767px) {
+  .table-responsive {
+    margin-bottom: 15px;
+  }
+}
+
+.table-responsive > .table {
+  background: 
+    linear-gradient(to right, white 30%, rgba(255,255,255,0)),
+    linear-gradient(to left, white 30%, rgba(255,255,255,0)) 100% 0;
+  background-size: 50px 100%;
+  background-repeat: no-repeat;
+  max-width: none;
+  margin-bottom: 0;
 }
