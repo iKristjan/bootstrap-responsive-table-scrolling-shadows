@@ -9,15 +9,15 @@ Bootstrap 3+
 
 ## Installation
 
-1. Install via Bower:
+Install via Bower:
 ```
 bower install bootstrap-responsive-table-scrolling-shadows
 ```
-2. Include ```bootstrap-responsive-table-scrolling-shadows.css``` after the main Bootstrap CSS.
+And include ```bootstrap-responsive-table-scrolling-shadows.css``` after the main Bootstrap CSS.
 
 ## Usage
 
-Use the normal Bootstrap responsive table approach.
+Use the normal Bootstrap responsive table approach.<br>
 The magic is tied to the ```.table-responsive``` class.
 
 ```
@@ -36,7 +36,7 @@ The magic is tied to the ```.table-responsive``` class.
 
 ## Acknowledgements
 
-Inspired by [Roman Komarov](http://kizu.ru/en/fun/shadowscroll/).
+Inspired by [Roman Komarov](https://twitter.com/kizmarh)'s [scrolling shadows experiment](http://kizu.ru/en/fun/shadowscroll/).
 
 ## License
 
